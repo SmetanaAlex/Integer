@@ -1,0 +1,2 @@
+# Integer
+Задания типа Integer
